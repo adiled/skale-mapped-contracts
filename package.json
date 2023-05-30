@@ -1,0 +1,11 @@
+{
+  "name": "skale-mapped-contracts",
+  "license": "MIT",
+  "author": {
+    "name": "Adil Shaikh",
+    "email": "hello@adils.me"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  }
+}
